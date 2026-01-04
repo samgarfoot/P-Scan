@@ -1,3 +1,9 @@
+"""
+P-SCAN - Python Port Scanner
+Author: Sam
+Description: Multi-mode port scanner with CLI and interactive support
+"""
+
 #!/usr/bin/env python3
 
 import socket
