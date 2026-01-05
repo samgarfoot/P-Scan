@@ -1,6 +1,15 @@
 # Commands
 
-To start the tool after installation it is p-scan "insert target IP address"
+To start the tool after installation it is (DONT use the inverted commas, these were purely used on GitHub to highlight where to put the target IP):
+
+```bash
+p-scan "insert target ip address"
+```
+If the user wanted to do a scan but with Verbose mode, the following command would be:
+
+```bash
+p-scan "insert target ip address" -v
+```
 
 Below I have attached a screenshot of the help menu of all the different commands the user can execute.
 
