@@ -1,4 +1,4 @@
-# Help Section
+# Help
 
 Here is where I programmed a help section users can utilise to familiarise themselvews with all the commands that I have programmed.
 
