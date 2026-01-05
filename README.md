@@ -45,6 +45,15 @@ stealth, and usability.
 - Improved code structure and documentation for maintainability
 
 ## Usage
+For interactive mode:
+
 ```bash
-p-scan 192.168.1.1 -s -v
+p-scan
+```
+For CLI mode:
+
+```bash
+p-scan "target IP address, then any modes you may want to use"
+```
+
 
